@@ -1,0 +1,9 @@
+patient_id,age,sex,systolic_bp,total_cholesterol,hdl_cholesterol,smoker,diabetic,deprivation
+P001,45,male,128,5.2,1.4,never,no,3
+P002,62,female,145,6.1,1.2,ex,no,7
+P003,55,male,158,5.8,1.1,moderate,yes,8
+P004,38,female,118,4.9,1.6,never,no,2
+P005,71,male,162,6.4,1.0,heavy,yes,9
+P006,50,female,135,5.5,1.3,light,no,5
+P007,48,male,122,5.0,1.5,never,no,1
+P008,65,female,170,6.8,0.9,ex,yes,8
